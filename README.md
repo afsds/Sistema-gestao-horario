@@ -9,10 +9,10 @@ Montagem de Grade: Criação de horários semanais associando Professor, Discipl
 
 Edição Manual: Flexibilidade para ajustes diretos na interface 
 
-Visualização Multi-Filtro: Consulta de horários por turma, professor ou sala específica (RF13).
+Visualização Multi-Filtro: Consulta de horários por turma, professor ou sala específica 
 
 Inteligência e Regras de Negócio (Back-end)
-Validação de Disponibilidade: O sistema impede que um professor seja alocado em dois horários simultâneos (RN01/RF16).
+Validação de Disponibilidade: O sistema impede que um professor seja alocado em dois horários simultâneos 
 
 Gestão de Espaço: Bloqueio de uso duplicado de salas no mesmo período 
 
